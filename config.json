@@ -1,0 +1,9 @@
+{
+    "AUTO_CREATE_QUERY_ID": false,
+    "AUTO_CREATE_WALLET": false,
+    "AUTO_CREATE_ACCOUNT": false,
+    "AUTO_CHANGE_SCREEN_SIZE_ACCOUNT": false,
+    "THREAD": 10,
+    "EXCEL_PATH": "C:\\Users\\ADMIN\\Desktop\\query_id.xlsx",
+    "EXCEL_SHEET_NAME": ""
+}
