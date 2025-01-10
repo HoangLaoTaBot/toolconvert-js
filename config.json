@@ -1,9 +1,20 @@
 {
     "AUTO_CREATE_QUERY_ID": false,
-    "AUTO_CREATE_WALLET": false,
+    "AUTO_CREATE_WALLET_NOT_UID": false,
+    "AUTO_CREATE_WALLET_USE_UID": false,
     "AUTO_CREATE_ACCOUNT": false,
-    "AUTO_CHANGE_SCREEN_SIZE_ACCOUNT": false,
+    "AUTO_CHANGE_SCREEN_SIZE_HIDEMIUM": false,
+    "AUTO_LOGIN_GPM": false,
+    "AUTO_LOGIN_HIDEMIUM": false,
+    "AUTO_UPDATE_PROXY_GPM": false,
+    "AUTO_UPDATE_PROXY_HIDEMIUM": false,
+    "AUTO_UPDATE_GROUP_PROFILE_GPM": false,
     "THREAD": 10,
-    "EXCEL_PATH": "C:\\Users\\ADMIN\\Desktop\\query_id.xlsx",
-    "EXCEL_SHEET_NAME": ""
+    "EXCEL_PATH": "C:\\Users\\Dell\\Desktop\\query_id.xlsx",
+    "EXCEL_SHEET_NAME": "query_cong",
+    "EXCEL_COLUM_DATA": "F",
+    "EXCEL_COLUM_DATA_2": "G",
+    "PATH_QUERY_ID": "query_id.json",
+    "PATH_ACCOUNT": "account.json",
+    "PATH_WALLET": "wallet.json"
 }
