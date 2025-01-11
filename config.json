@@ -11,7 +11,7 @@
     "AUTO_UPDATE_GROUP_PROFILE_GPM": false,
     "THREAD": 10,
     "EXCEL_PATH": "C:\\Users\\Dell\\Desktop\\query_id.xlsx",
-    "EXCEL_SHEET_NAME": "query_cong",
+    "EXCEL_SHEET_NAME": "ton_wallet_hoang",
     "EXCEL_COLUM_DATA": "F",
     "EXCEL_COLUM_DATA_2": "G",
     "PATH_QUERY_ID": "query_id.json",
